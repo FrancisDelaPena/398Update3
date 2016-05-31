@@ -1,4 +1,4 @@
-# COMP 398 Update 3
+# Unicode Collation Algorithm Test
 Update 3 of Dr. Hayward's COMP 398 course
 
 For COMP 398, Update 3 from 3/28/16-4/11/16.
